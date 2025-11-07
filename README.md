@@ -1,2 +1,2 @@
-# sistema-de-ecuaciones-lineales
+# Sistema-de-ecuaciones-lineales
 resolver sistemas de ecuaciones lineales 
